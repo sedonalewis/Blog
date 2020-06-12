@@ -1,0 +1,3 @@
+Hello! This repository contains blog posts I've written for USC's student chapter of AAAI. 
+
+Eventually I will have to host these somewhere else, but they are staying here for now... 
